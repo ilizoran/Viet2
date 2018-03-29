@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using Foundation;
@@ -21,7 +21,7 @@ namespace Hello_MultiScreen_iPhone
 			base.ViewDidLoad ();
 
 			//---- when the hello world button is clicked
-			this.btnHelloWorld.TouchUpInside += (sender, e) => {
+			this.btnFoodList.TouchUpInside += (sender, e) => {
 				//---- instantiate a new hello world screen, if it's null (it may not be null if they've navigated
 				// backwards from it
 				if(this.helloWorldScreen == null) { this.helloWorldScreen = new HelloWorldScreen(); }
@@ -30,7 +30,7 @@ namespace Hello_MultiScreen_iPhone
 			};
 
 			//---- same thing, but for the hello universe screen
-			this.btnHelloUniverse.TouchUpInside += (sender, e) => {
+			this.btnTables.TouchUpInside += (sender, e) => {
 				if(this.helloUniverseScreen == null) { this.helloUniverseScreen = new HelloUniverseScreen(); }
 				this.NavigationController.PushViewController(this.helloUniverseScreen, true);
 			};

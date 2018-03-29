@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12121" systemVersion="16F73" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" colorMatched="YES">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
@@ -10,8 +10,8 @@
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="HomeScreen">
             <connections>
-                <outlet property="btnHelloUniverse" destination="9" id="11"/>
-                <outlet property="btnHelloWorld" destination="8" id="10"/>
+                <outlet property="btnTables" destination="9" id="11"/>
+                <outlet property="btnFoodList" destination="8" id="10"/>
                 <outlet property="view" destination="1" id="7"/>
             </connections>
         </placeholder>

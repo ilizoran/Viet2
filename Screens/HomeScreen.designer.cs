@@ -1,20 +1,36 @@
 // WARNING
 //
-// This file has been generated automatically by MonoDevelop to store outlets and
-// actions made in the Xcode designer. If it is removed, they will be lost.
-// Manual changes to this file may not be handled correctly.
+// This file has been generated automatically by Visual Studio from the outlets and
+// actions declared in your storyboard file.
+// Manual changes to this file will not be maintained.
 //
 using Foundation;
+using System;
+using System.CodeDom.Compiler;
 
 namespace Hello_MultiScreen_iPhone
 {
-	[Register ("HomeScreen")]
-	partial class HomeScreen
-	{
-		[Outlet]
-		UIKit.UIButton btnHelloWorld { get; set; }
+    [Register ("HomeScreen")]
+    partial class HomeScreen
+    {
+        [Outlet]
+        UIKit.UIButton btnFoodList { get; set; }
 
-		[Outlet]
-		UIKit.UIButton btnHelloUniverse { get; set; }
-	}
+
+        [Outlet]
+        UIKit.UIButton btnTables { get; set; }
+
+        void ReleaseDesignerOutlets ()
+        {
+            if (btnFoodList != null) {
+                btnFoodList.Dispose ();
+                btnFoodList = null;
+            }
+
+            if (btnTables != null) {
+                btnTables.Dispose ();
+                btnTables = null;
+            }
+        }
+    }
 }
