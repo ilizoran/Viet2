@@ -1,3 +1,7 @@
-This is the sample code for the iOS recipe for creating a tableview using Sqlite.Net.
+Hello Multi-Screen iPhone
+=========================
 
-[See the recipe at developer.xamarin.com](http://developer.xamarin.com/recipes/ios/data/sqlite/create_a_database_with_sqlitenet/)
+This sample serves as an introduction to the primary pattern used
+in iOS for user interfaces: MVC (Model-View-Controller). It shows
+how to use the UINavigationController class to manage the user
+interface of a multi-screen application.
