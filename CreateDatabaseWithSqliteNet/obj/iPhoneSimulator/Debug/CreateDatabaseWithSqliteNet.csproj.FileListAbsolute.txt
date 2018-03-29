@@ -9,3 +9,14 @@
 /Users/zoranilibasic/recipes/ios/data/sqlite/create_a_database_with_sqlitenet/CreateDatabaseWithSqliteNet/obj/iPhoneSimulator/Debug/CreateDatabaseWithSqliteNet.csproj.CoreCompileInputs.cache
 /Users/zoranilibasic/recipes/ios/data/sqlite/create_a_database_with_sqlitenet/CreateDatabaseWithSqliteNet/obj/iPhoneSimulator/Debug/CreateDatabaseWithSqliteNet.exe
 /Users/zoranilibasic/recipes/ios/data/sqlite/create_a_database_with_sqlitenet/CreateDatabaseWithSqliteNet/obj/iPhoneSimulator/Debug/CreateDatabaseWithSqliteNet.pdb
+/Users/zoranilibasic/Projects/Viet2/CreateDatabaseWithSqliteNet/bin/iPhoneSimulator/Debug/CreateDatabaseWithSqliteNet.exe
+/Users/zoranilibasic/Projects/Viet2/CreateDatabaseWithSqliteNet/bin/iPhoneSimulator/Debug/CreateDatabaseWithSqliteNet.pdb
+/Users/zoranilibasic/Projects/Viet2/CreateDatabaseWithSqliteNet/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/zoranilibasic/Projects/Viet2/CreateDatabaseWithSqliteNet/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/actool/_PartialAppManifest.items
+/Users/zoranilibasic/Projects/Viet2/CreateDatabaseWithSqliteNet/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/zoranilibasic/Projects/Viet2/CreateDatabaseWithSqliteNet/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/coremlc/_PartialAppManifest.items
+/Users/zoranilibasic/Projects/Viet2/CreateDatabaseWithSqliteNet/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/zoranilibasic/Projects/Viet2/CreateDatabaseWithSqliteNet/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/
+/Users/zoranilibasic/Projects/Viet2/CreateDatabaseWithSqliteNet/obj/iPhoneSimulator/Debug/CreateDatabaseWithSqliteNet.csproj.CoreCompileInputs.cache
+/Users/zoranilibasic/Projects/Viet2/CreateDatabaseWithSqliteNet/obj/iPhoneSimulator/Debug/CreateDatabaseWithSqliteNet.exe
+/Users/zoranilibasic/Projects/Viet2/CreateDatabaseWithSqliteNet/obj/iPhoneSimulator/Debug/CreateDatabaseWithSqliteNet.pdb

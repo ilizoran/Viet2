@@ -120,17 +120,15 @@ namespace CreateDatabaseWithSqliteNet
 
         void HandleTouchUpInsideForInsertUser(object sender, EventArgs e)
         {
-            var person = new Person { FirstName = _textfield.Text, LastName = "Doe"};
-            using (var db = new SQLite.SQLiteConnection(_pathToDatabase ))
+            var person = new Person { FirstName = _textfield.Text, LastName = "Doe" };
+            using (var db = new SQLite.SQLiteConnection(_pathToDatabase))
             {
                 db.Insert(person);
             }
 
-            _txtView.Text = String.Concat(Environment.NewLine, "Inserted a new person into the database: ", person.FirstName, " ", person.LastName, " text " );
+            _txtView.Text = String.Concat(Environment.NewLine, "Inserted a new person into the database: ", person.FirstName, " ", person.LastName, " text ");
 
         }
-
-
 
         void HandleTouchUpInsideForDeleetTable(object sender, EventArgs e)
         {
@@ -145,7 +143,7 @@ namespace CreateDatabaseWithSqliteNet
 
         void HandleTouchUpInsideForSelectUser(object sender, EventArgs e)
         {
-            _txtView.Text = String.Concat(Environment.NewLine, "Contyent of the database: ");   
+            _txtView.Text = String.Concat(Environment.NewLine, "Content of the database: ");   
             using (var db = new SQLite.SQLiteConnection(_pathToDatabase)){
                 var table = db.Table<Person>();
                 var i = 1;
