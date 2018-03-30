@@ -1,4 +1,4 @@
-// WARNING
+﻿// WARNING
 //
 // This file has been generated automatically by Visual Studio from the outlets and
 // actions declared in your storyboard file.
@@ -8,7 +8,7 @@ using Foundation;
 using System;
 using System.CodeDom.Compiler;
 
-namespace Hello_MultiScreen_iPhone
+namespace Take_Order
 {
     [Register ("HelloWorldScreen")]
     partial class HelloWorldScreen

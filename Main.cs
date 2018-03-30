@@ -1,10 +1,10 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using Foundation;
 using UIKit;
 
-namespace Hello_MultiScreen_iPhone
+namespace Take_Order
 {
 	public class Application
 	{

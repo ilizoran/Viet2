@@ -2,11 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Screens/HomeScreen.designer.cs">
     <Files>
       <File FileName="Screens/HomeScreen.xib" />
-      <File FileName="Screens/HomeScreen.cs" Line="1" Column="1" />
-      <File FileName="Screens/HelloWorldScreen.xib" />
-      <File FileName="Screens/HomeScreen.designer.cs" Line="1" Column="1" />
-      <File FileName="Info.plist" />
-      <File FileName="AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Screens/HomeScreen.designer.cs" Line="36" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
@@ -15,5 +11,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Viet2 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CD8CD3E2-C763-4ADE-80F9-FAA58BA4749D" automaticSigning="False" />
+  <MonoDevelop.Ide.ItemProperties.Viet2 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9ABC3D73-41ED-46A5-894F-28940D94A2E2" />
 </Properties>
