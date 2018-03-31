@@ -10,8 +10,8 @@ using System.CodeDom.Compiler;
 
 namespace Take_Order
 {
-    [Register ("HelloUniverseScreen")]
-    partial class HelloUniverseScreen
+    [Register ("FoodListScreen")]
+    partial class FoodListScreen
     {
         void ReleaseDesignerOutlets ()
         {

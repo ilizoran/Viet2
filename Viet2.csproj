@@ -80,15 +80,15 @@
     <Compile Include="Screens\HomeScreen.designer.cs">
       <DependentUpon>HomeScreen.cs</DependentUpon>
     </Compile>
-    <Compile Include="Screens\HelloWorldScreen.designer.cs">
-      <DependentUpon>HelloWorldScreen.cs</DependentUpon>
+    <Compile Include="Screens\FoodListScreen.designer.cs">
+      <DependentUpon>FoodListScreen.cs</DependentUpon>
     </Compile>
-    <Compile Include="Screens\HelloUniverseScreen.designer.cs">
-      <DependentUpon>HelloUniverseScreen.cs</DependentUpon>
+    <Compile Include="Screens\TablesScreen.designer.cs">
+      <DependentUpon>TablesScreen.cs</DependentUpon>
     </Compile>
     <Compile Include="Screens\HomeScreen.cs" />
-    <Compile Include="Screens\HelloWorldScreen.cs" />
-    <Compile Include="Screens\HelloUniverseScreen.cs" />
+    <Compile Include="Screens\FoodListScreen.cs" />
+    <Compile Include="Screens\TablesScreen.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Screens\" />
@@ -96,8 +96,8 @@
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Screens\HomeScreen.xib" />
-    <InterfaceDefinition Include="Screens\HelloWorldScreen.xib" />
-    <InterfaceDefinition Include="Screens\HelloUniverseScreen.xib" />
+    <InterfaceDefinition Include="Screens\FoodListScreen.xib" />
+    <InterfaceDefinition Include="Screens\TablesScreen.xib" />
   </ItemGroup>
   <ProjectExtensions>
     <MonoDevelop>

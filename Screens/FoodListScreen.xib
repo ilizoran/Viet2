@@ -10,7 +10,7 @@
         </array>
     </customFonts>
     <objects>
-        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="HelloWorldScreen">
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="FoodListScreen">
             <connections>
                 <outlet property="view" destination="1" id="7"/>
             </connections>

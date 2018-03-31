@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{A10944A3-80E8-4A8D-A6F5-1A10606AAE60}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Screens/HelloUniverseScreen.xib">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Screens/HomeScreen.cs">
     <Files>
       <File FileName="Screens/HomeScreen.designer.cs" Line="1" Column="1" />
       <File FileName="Screens/HomeScreen.xib" />
       <File FileName="Screens/HelloWorldScreen.designer.cs" Line="1" Column="1" />
       <File FileName="Screens/HelloWorldScreen.cs" Line="14" Column="27" />
-      <File FileName="Screens/HelloUniverseScreen.designer.cs" Line="1" Column="1" />
-      <File FileName="Screens/HelloUniverseScreen.cs" Line="14" Column="24" />
+      <File FileName="Screens/TablesScreen.designer.cs" Line="1" Column="1" />
+      <File FileName="Screens/TablesScreen.cs" Line="9" Column="38" />
       <File FileName="Screens/HelloWorldScreen.xib" />
-      <File FileName="Screens/HelloUniverseScreen.xib" />
+      <File FileName="Screens/TablesScreen.xib" />
+      <File FileName="Screens/HomeScreen.cs" Line="12" Column="21" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
