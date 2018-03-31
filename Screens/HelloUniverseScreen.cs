@@ -11,7 +11,7 @@ namespace Take_Order
 		//loads the HelloUniverseScreen.xib file and connects it to this object
 		public HelloUniverseScreen () : base ("HelloUniverseScreen", null)
 		{
-			this.Title = "Universe!";
+			this.Title = "Tables";
 		}
 	}
 }

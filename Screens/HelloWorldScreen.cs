@@ -11,7 +11,7 @@ namespace Take_Order
 		//loads the HelloWorldScreen.xib file and connects it to this object
 		public HelloWorldScreen () : base ("HelloWorldScreen", null)
 		{
-			this.Title = "World!";
+			this.Title = "Food list";
 		}
 
 	}
