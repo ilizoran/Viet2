@@ -34,7 +34,13 @@ namespace Take_Order
                 if(this.tablesScreen == null) { this.tablesScreen = new TablesScreen(); }
                 this.NavigationController.PushViewController(this.tablesScreen, true);
 			};
-        
+
+            this.btnFoodList.BackgroundColor = UIColor.Red;
+            this.btnTables.BackgroundColor = UIColor.Red;
+
+            this.NavigationController.NavigationBar.BarTintColor = UIColor.Black;
+            this.NavigationController.NavigationBar.BarStyle = UIBarStyle.Black;
+                    
             this.View.BackgroundColor = UIColor.FromPatternImage(UIImage.FromFile("Menu.png"));
 		}
 

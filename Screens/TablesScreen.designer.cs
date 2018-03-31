@@ -13,8 +13,43 @@ namespace Take_Order
     [Register ("TablesScreen")]
     partial class TablesScreen
     {
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UIButton btnTable1 { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UIButton btnTable2 { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UIButton btnTable3 { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UIButton btnTable5 { get; set; }
+
         void ReleaseDesignerOutlets ()
         {
+            if (btnTable1 != null) {
+                btnTable1.Dispose ();
+                btnTable1 = null;
+            }
+
+            if (btnTable2 != null) {
+                btnTable2.Dispose ();
+                btnTable2 = null;
+            }
+
+            if (btnTable3 != null) {
+                btnTable3.Dispose ();
+                btnTable3 = null;
+            }
+
+            if (btnTable5 != null) {
+                btnTable5.Dispose ();
+                btnTable5 = null;
+            }
         }
     }
 }

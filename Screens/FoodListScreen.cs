@@ -17,7 +17,7 @@ namespace Take_Order
         public override void ViewDidLoad()
         {
             base.ViewDidLoad();
-            this.View.BackgroundColor = UIColor.FromPatternImage(UIImage.FromFile("Default.png"));
+            this.View.BackgroundColor = UIColor.FromPatternImage(UIImage.FromFile("FoodList.png"));
         }
 	}
 }

@@ -13,6 +13,17 @@ namespace Take_Order
 		{
 			this.Title = "Tables";
 		}
+
+        public override void ViewDidLoad()
+        {
+           
+            base.ViewDidLoad();
+
+            btnTable1.Layer.CornerRadius = 10; 
+            this.View.BackgroundColor = UIColor.FromPatternImage(UIImage.FromFile("Tables.png"));
+        }
+
+
 	}
 
 }

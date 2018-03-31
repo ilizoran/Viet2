@@ -127,6 +127,10 @@
     <BundleResource Include="Resources\icon-144.png" />
     <BundleResource Include="Resources\Icon-60%402x.png" />
     <BundleResource Include="Resources\Icon-Small-40%402x.png" />
+    <BundleResource Include="Resources\FoodList.png" />
+    <BundleResource Include="Resources\Menu.png" />
+    <BundleResource Include="Resources\Tables.png" />
+    <BundleResource Include="Resources\table_icon.png" />
   </ItemGroup>
   <ItemGroup>
     <ITunesArtwork Include="Resources\iTunesArtwork.png" />
