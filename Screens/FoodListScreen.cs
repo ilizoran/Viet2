@@ -14,5 +14,10 @@ namespace Take_Order
 			this.Title = "Food list";
 		}
 
+        public override void ViewDidLoad()
+        {
+            base.ViewDidLoad();
+            this.View.BackgroundColor = UIColor.FromPatternImage(UIImage.FromFile("Default.png"));
+        }
 	}
 }

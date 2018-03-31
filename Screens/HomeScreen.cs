@@ -34,6 +34,8 @@ namespace Take_Order
                 if(this.tablesScreen == null) { this.tablesScreen = new TablesScreen(); }
                 this.NavigationController.PushViewController(this.tablesScreen, true);
 			};
+        
+            this.View.BackgroundColor = UIColor.FromPatternImage(UIImage.FromFile("Menu.png"));
 		}
 
 		/// <summary>
@@ -55,5 +57,7 @@ namespace Take_Order
 			base.ViewWillDisappear (animated);
 			this.NavigationController.SetNavigationBarHidden (false, animated);
 		}
+
+
 	}
 }
