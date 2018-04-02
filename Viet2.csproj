@@ -70,6 +70,7 @@
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
     <Reference Include="Xamarin.iOS" />
+    <Reference Include="MonoTouch.Dialog-1" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Info.plist" />
@@ -89,6 +90,10 @@
     <Compile Include="Screens\HomeScreen.cs" />
     <Compile Include="Screens\FoodListScreen.cs" />
     <Compile Include="Screens\TablesScreen.cs" />
+    <Compile Include="Screens\TakeOrderScreen.cs" />
+    <Compile Include="Screens\TakeOrderScreen.designer.cs">
+      <DependentUpon>TakeOrderScreen.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Screens\" />
@@ -98,6 +103,7 @@
     <InterfaceDefinition Include="Screens\HomeScreen.xib" />
     <InterfaceDefinition Include="Screens\FoodListScreen.xib" />
     <InterfaceDefinition Include="Screens\TablesScreen.xib" />
+    <InterfaceDefinition Include="Screens\TakeOrderScreen.xib" />
   </ItemGroup>
   <ProjectExtensions>
     <MonoDevelop>
@@ -131,6 +137,7 @@
     <BundleResource Include="Resources\Menu.png" />
     <BundleResource Include="Resources\Tables.png" />
     <BundleResource Include="Resources\table_icon.png" />
+    <BundleResource Include="Resources\button.png" />
   </ItemGroup>
   <ItemGroup>
     <ITunesArtwork Include="Resources\iTunesArtwork.png" />

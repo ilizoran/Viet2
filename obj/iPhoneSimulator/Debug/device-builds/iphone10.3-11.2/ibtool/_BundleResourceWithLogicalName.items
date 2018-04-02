@@ -13,5 +13,9 @@
       <LogicalName>TablesScreen.nib</LogicalName>
       <Optimize>false</Optimize>
     </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/ibtool/TakeOrderScreen.nib">
+      <LogicalName>TakeOrderScreen.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
   </ItemGroup>
 </Project>

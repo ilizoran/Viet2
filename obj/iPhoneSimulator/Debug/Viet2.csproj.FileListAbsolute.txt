@@ -62,3 +62,4 @@
 /Users/zoranilibasic/Projects/Viet2/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/Menu.png
 /Users/zoranilibasic/Projects/Viet2/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/Tables.png
 /Users/zoranilibasic/Projects/Viet2/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/table_icon.png
+/Users/zoranilibasic/Projects/Viet2/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/button.png

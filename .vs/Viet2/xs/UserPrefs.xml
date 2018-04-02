@@ -1,15 +1,20 @@
 ﻿<Properties StartupConfiguration="{A10944A3-80E8-4A8D-A6F5-1A10606AAE60}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Screens/TablesScreen.xib">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Screens/TakeOrderScreen.designer.cs">
     <Files>
       <File FileName="Screens/FoodListScreen.xib" />
       <File FileName="Screens/TablesScreen.xib" />
-      <File FileName="Main.cs" Line="17" Column="1" />
-      <File FileName="Screens/FoodListScreen.cs" Line="20" Column="23" />
-      <File FileName="Screens/TablesScreen.cs" Line="20" Column="32" />
-      <File FileName="Screens/HomeScreen.cs" Line="46" Column="1" />
+      <File FileName="Main.cs" Line="13" Column="1" />
+      <File FileName="Screens/FoodListScreen.cs" Line="1" Column="1" />
+      <File FileName="Screens/HomeScreen.cs" Line="12" Column="35" />
       <File FileName="Screens/HomeScreen.xib" />
       <File FileName="Screens/HomeScreen.designer.cs" Line="1" Column="1" />
       <File FileName="Screens/TablesScreen.designer.cs" Line="1" Column="1" />
+      <File FileName="Screens/FoodListScreen.designer.cs" Line="1" Column="1" />
+      <File FileName="Screens/TablesScreen.cs" Line="25" Column="10" />
+      <File FileName="Info.plist" />
+      <File FileName="Screens/TakeOrderScreen.cs" Line="6" Column="21" />
+      <File FileName="Screens/TakeOrderScreen.designer.cs" Line="9" Column="1" />
+      <File FileName="Screens/TakeOrderScreen.xib" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
@@ -18,5 +23,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Viet2 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9ABC3D73-41ED-46A5-894F-28940D94A2E2" />
+  <MonoDevelop.Ide.ItemProperties.Viet2 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9ABC3D73-41ED-46A5-894F-28940D94A2E2" automaticSigning="False" />
 </Properties>
