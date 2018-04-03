@@ -25,6 +25,10 @@ namespace Take_Order
         [GeneratedCode ("iOS Designer", "1.0")]
         UIKit.UIButton btnTable3 { get; set; }
 
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UIButton btnTable4 { get; set; }
+
         void ReleaseDesignerOutlets ()
         {
             if (btnTable1 != null) {
@@ -40,6 +44,11 @@ namespace Take_Order
             if (btnTable3 != null) {
                 btnTable3.Dispose ();
                 btnTable3 = null;
+            }
+
+            if (btnTable4 != null) {
+                btnTable4.Dispose ();
+                btnTable4 = null;
             }
         }
     }

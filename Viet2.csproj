@@ -90,6 +90,10 @@
     <Compile Include="Screens\HomeScreen.cs" />
     <Compile Include="Screens\FoodListScreen.cs" />
     <Compile Include="Screens\TablesScreen.cs" />
+    <Compile Include="Screens\AddOrderScreen.cs" />
+    <Compile Include="Screens\AddOrderScreen.designer.cs">
+      <DependentUpon>AddOrderScreen.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Screens\" />
@@ -99,6 +103,7 @@
     <InterfaceDefinition Include="Screens\HomeScreen.xib" />
     <InterfaceDefinition Include="Screens\FoodListScreen.xib" />
     <InterfaceDefinition Include="Screens\TablesScreen.xib" />
+    <InterfaceDefinition Include="Screens\AddOrderScreen.xib" />
   </ItemGroup>
   <ProjectExtensions>
     <MonoDevelop>
