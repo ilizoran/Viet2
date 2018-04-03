@@ -94,6 +94,10 @@
     <Compile Include="Screens\AddOrderScreen.designer.cs">
       <DependentUpon>AddOrderScreen.cs</DependentUpon>
     </Compile>
+    <Compile Include="Screens\AddNewItemScrean.cs" />
+    <Compile Include="Screens\AddNewItemScrean.designer.cs">
+      <DependentUpon>AddNewItemScrean.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Screens\" />
@@ -104,6 +108,7 @@
     <InterfaceDefinition Include="Screens\FoodListScreen.xib" />
     <InterfaceDefinition Include="Screens\TablesScreen.xib" />
     <InterfaceDefinition Include="Screens\AddOrderScreen.xib" />
+    <InterfaceDefinition Include="Screens\AddNewItemScrean.xib" />
   </ItemGroup>
   <ProjectExtensions>
     <MonoDevelop>

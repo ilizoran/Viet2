@@ -14,6 +14,8 @@ namespace Take_Order
     {
         private UITextView _txtView;
         private UILabel _label;
+        private UIButton _btnAddNewItem;
+        AddNewItemScrean addNewItemScrean;
 
         public string YourString { get; set; }
 
@@ -32,6 +34,11 @@ namespace Take_Order
             _label.TextColor = UIColor.Black;
             _label.Text = "Add order:";
 
+            _btnAddNewItem = UIButton.FromType(UIButtonType.RoundedRect);
+            _btnAddNewItem.Frame = new CGRect(10, 120, 300, 50);
+            _btnAddNewItem.SetTitle("Add New Item", UIControlState.Normal);
+
+
             _txtView = new UITextView(new CGRect(10, 180, 300, 350));
             _txtView.Editable = false;
             _txtView.ScrollEnabled = true;
@@ -39,13 +46,15 @@ namespace Take_Order
             _txtView.BackgroundColor = UIColor.Gray;
             _txtView.Text = "Order for table: "  + YourString;
 
-            UIPickerView picker = new UIPickerView(new CGRect(10, 90, 100, 50));
-            picker.ShowSelectionIndicator = true;
 
+            this._btnAddNewItem.TouchUpInside += (sender, e) => {
+                if (this.addNewItemScrean == null) { this.addNewItemScrean = new AddNewItemScrean(); }
+                this.NavigationController.PushViewController(this.addNewItemScrean, true);
+            };
 
-            Add(picker);
             Add(_label);
             Add(_txtView);
+            Add(_btnAddNewItem);
         }
 
 
