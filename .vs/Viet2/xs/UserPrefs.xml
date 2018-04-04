@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{A10944A3-80E8-4A8D-A6F5-1A10606AAE60}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Screens/AddOrderScreen.cs">
     <Files>
-      <File FileName="Screens/AddOrderScreen.cs" Line="39" Column="57" />
+      <File FileName="Screens/AddOrderScreen.cs" Line="46" Column="77" />
       <File FileName="Screens/AddNewItemScrean.cs" Line="46" Column="51" />
       <File FileName="Screens/HomeScreen.cs" Line="12" Column="9" />
       <File FileName="Screens/HomeScreen.xib" />
