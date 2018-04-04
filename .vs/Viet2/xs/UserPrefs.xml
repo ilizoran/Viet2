@@ -1,11 +1,13 @@
 ﻿<Properties StartupConfiguration="{A10944A3-80E8-4A8D-A6F5-1A10606AAE60}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Screens/AddNewItemScrean.designer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Screens/AddOrderScreen.cs">
     <Files>
-      <File FileName="Screens/AddOrderScreen.cs" Line="18" Column="2" />
-      <File FileName="Screens/AddNewItemScrean.cs" Line="5" Column="21" />
+      <File FileName="Screens/AddOrderScreen.cs" Line="39" Column="57" />
+      <File FileName="Screens/AddNewItemScrean.cs" Line="46" Column="51" />
       <File FileName="Screens/HomeScreen.cs" Line="12" Column="9" />
       <File FileName="Screens/HomeScreen.xib" />
-      <File FileName="Screens/AddNewItemScrean.designer.cs" Line="12" Column="21" />
+      <File FileName="Screens/AddNewItemScrean.designer.cs" Line="1" Column="1" />
+      <File FileName="Screens/AddNewItemScrean.xib" />
+      <File FileName="Screens/TablesScreen.cs" Line="14" Column="39" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
