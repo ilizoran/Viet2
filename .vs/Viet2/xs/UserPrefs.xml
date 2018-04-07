@@ -1,16 +1,14 @@
 ﻿<Properties StartupConfiguration="{A10944A3-80E8-4A8D-A6F5-1A10606AAE60}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Screens/TablesScreen.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Screens/TableSource.cs">
     <Files>
-      <File FileName="Screens/AddNewItemScrean.xib" />
-      <File FileName="Screens/AddNewItemScrean.cs" Line="15" Column="1" />
-      <File FileName="Screens/AddOrderScreen.cs" Line="45" Column="13" />
-      <File FileName="Screens/HomeScreen.xib" />
+      <File FileName="Screens/AddNewItemScrean.cs" Line="1" Column="1" />
+      <File FileName="Screens/AddOrderScreen.cs" Line="37" Column="1" />
       <File FileName="Screens/HomeScreen.designer.cs" Line="1" Column="1" />
-      <File FileName="Screens/FoodListScreen.xib" />
-      <File FileName="Screens/TablesScreen.cs" Line="28" Column="46" />
+      <File FileName="Screens/TablesScreen.cs" Line="32" Column="71" />
       <File FileName="Screens/TablesScreen.designer.cs" Line="1" Column="1" />
-      <File FileName="Screens/HomeScreen.cs" Line="46" Column="8" />
-      <File FileName="Screens/FoodListScreen.cs" Line="20" Column="23" />
+      <File FileName="Screens/HomeScreen.cs" Line="1" Column="1" />
+      <File FileName="Screens/FoodListScreen.cs" Line="1" Column="1" />
+      <File FileName="Screens/TableSource.cs" Line="71" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />

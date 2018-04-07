@@ -98,6 +98,7 @@
     <Compile Include="Screens\AddNewItemScrean.designer.cs">
       <DependentUpon>AddNewItemScrean.cs</DependentUpon>
     </Compile>
+    <Compile Include="Screens\TableSource.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Screens\" />
