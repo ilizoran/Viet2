@@ -2,9 +2,7 @@
 using CoreGraphics;
 
 using UIKit;
-using System.Collections.Generic;
 using System.Drawing;
-using Foundation;
 
 
 namespace Take_Order
@@ -54,7 +52,7 @@ namespace Take_Order
 
 
             _stepper1.ValueChanged += (object sender, EventArgs e) => _label1_1.Text = _stepper1.Value.ToString();
-            _stepper2.ValueChanged += (object sender, EventArgs e) => _label2_2.Text = _stepper2.Value.ToString();;
+            _stepper2.ValueChanged += (object sender, EventArgs e) => _label2_2.Text = _stepper2.Value.ToString();
 
             Add(_label1);
             Add(_label1_1);
