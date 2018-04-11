@@ -1,13 +1,12 @@
 ﻿<Properties StartupConfiguration="{A10944A3-80E8-4A8D-A6F5-1A10606AAE60}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Screens/AddOrderScreen.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Screens/EditFoodListScreen.cs">
     <Files>
-      <File FileName="Screens/AddOrderScreen.cs" Line="46" Column="77" />
-      <File FileName="Screens/AddNewItemScrean.cs" Line="46" Column="51" />
-      <File FileName="Screens/HomeScreen.cs" Line="12" Column="9" />
-      <File FileName="Screens/HomeScreen.xib" />
-      <File FileName="Screens/AddNewItemScrean.designer.cs" Line="1" Column="1" />
-      <File FileName="Screens/AddNewItemScrean.xib" />
-      <File FileName="Screens/TablesScreen.cs" Line="14" Column="39" />
+      <File FileName="Screens/FoodListScreen.cs" Line="35" Column="61" />
+      <File FileName="Screens/AddFoodListItemScreen.cs" Line="13" Column="54" />
+      <File FileName="Screens/AddFoodListItemScreen.designer.cs" Line="1" Column="1" />
+      <File FileName="Screens/AddOrderScreen.xib" />
+      <File FileName="Screens/AddFoodListItemScreen.xib" />
+      <File FileName="Screens/EditFoodListScreen.cs" Line="5" Column="21" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
@@ -16,5 +15,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Viet2 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9ABC3D73-41ED-46A5-894F-28940D94A2E2" />
+  <MonoDevelop.Ide.ItemProperties.Viet2 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CD8CD3E2-C763-4ADE-80F9-FAA58BA4749D" />
 </Properties>
