@@ -22,7 +22,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <ConsolePause>False</ConsolePause>
-    <MtouchLink>None</MtouchLink>
+    <MtouchLink>SdkOnly</MtouchLink>
     <MtouchDebug>True</MtouchDebug>
     <MtouchI18n>
     </MtouchI18n>
@@ -99,6 +99,14 @@
       <DependentUpon>AddNewItemScrean.cs</DependentUpon>
     </Compile>
     <Compile Include="Screens\TableSource.cs" />
+    <Compile Include="Screens\AddFoodListItem.cs" />
+    <Compile Include="Screens\AddFoodListItem.designer.cs">
+      <DependentUpon>AddFoodListItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\EditFoodListItem.cs" />
+    <Compile Include="Screens\EditFoodListItem.designer.cs">
+      <DependentUpon>EditFoodListItem.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Screens\" />
@@ -110,6 +118,8 @@
     <InterfaceDefinition Include="Screens\TablesScreen.xib" />
     <InterfaceDefinition Include="Screens\AddOrderScreen.xib" />
     <InterfaceDefinition Include="Screens\AddNewItemScrean.xib" />
+    <InterfaceDefinition Include="Screens\AddFoodListItem.xib" />
+    <InterfaceDefinition Include="Screens\EditFoodListItem.xib" />
   </ItemGroup>
   <ProjectExtensions>
     <MonoDevelop>

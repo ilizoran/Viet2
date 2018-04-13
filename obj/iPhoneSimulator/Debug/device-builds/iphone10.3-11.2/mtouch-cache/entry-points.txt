@@ -1,3 +1,11 @@
+Function=xamarin_timezone_get_data
+	/Users/zoranilibasic/Projects/Viet2/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/zoranilibasic/Projects/Viet2/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_get_block_descriptor
+	/Users/zoranilibasic/Projects/Viet2/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/zoranilibasic/Projects/Viet2/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/mtouch-cache/Link/Xamarin.iOS.dll
 Function=mono_pmip
 Function=xamarin_dyn_objc_msgSend
 Function=xamarin_dyn_objc_msgSendSuper
